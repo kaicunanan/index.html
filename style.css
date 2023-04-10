@@ -132,10 +132,82 @@ body{
     height: 279.5px;
     margin-left: 855px;
     margin-top: -280px;
+    border-collapse: collapse;
+    box-shadow: 1px 1px 5px 0.5px lightgrey;
 }
 .four{
     width: 236px;
     height: 145px;
     margin-left: 1px;
     margin-top: 1px;
+}
+.foot{
+    margin-left: -8px;
+    margin-top: 100px;
+    margin-bottom: -10px;
+    width: 1216.5px;
+    height: 250px;
+    background: whitesmoke;
+}
+.service{
+    margin-left: 45%;
+    padding-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.s3:hover, .s2:hover, .s1:hover, .s4:hover, .s5:hover{
+    background-color: orangered;
+}
+.s3{
+    width: 118px;
+    height: 30px;
+    padding-top: 15px;
+    margin-left: 560px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    background-color: white;
+}
+.s2{
+    width: 90px;
+    height: 30px;
+    padding-left: 30px;
+    padding-top: 15px;
+    margin-left: 410px;
+    margin-top: -58px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    background-color: white;
+}
+.s1{
+    width:118px;
+    height: 30px;
+    text-align: center;
+    padding-top: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 261px;
+    margin-top: -57px;
+    background-color: white;
+}
+.s4{
+    width:118px;
+    height: 30px;
+    text-align: center;
+    padding-top: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 710px;
+    margin-top: -60px;
+    background-color: white;
+}
+.s5{
+    width:118px;
+    height: 30px;
+    text-align: center;
+    padding-top: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 860px;
+    margin-top: -58px;
+    background-color: white;
 }
