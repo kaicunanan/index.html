@@ -13,7 +13,7 @@ body{
 
 .welcome {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 41px;
+    font-size: 39.7px;
     text-shadow: 100%;
     text-shadow: 2px 2px black;
     position: absolute;
@@ -36,4 +36,106 @@ body{
     transform: translate(-50%, -50%);
     padding-top: 80px;
     color:white
+}
+.recenttxt{
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.post1border:hover, .post2border:hover, .post3border:hover, .post4border:hover{
+    background-color: black;
+    color: white;
+}
+.post1border{
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 240px;
+    height: 280px;
+    box-shadow: 1px 1px 5px 0.5px lightgrey;
+}
+.one{
+    padding-bottom: -5px;
+    width: 238.5px;
+    height: 150px;
+    margin-left: 0.9px;
+    margin-top: -279.5px;
+    padding-top: 280px;
+}
+.posttitle{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 15px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.lorem1{
+    padding-left: 16px;
+    padding-right: 20px;
+    margin-top: -5px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: black white;
+}
+.RM1{
+    color: white black;
+    font-size: 11px;
+    padding-left: 16px;
+    padding-right: 20px;
+    margin-top: -5px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.RM1:hover{
+    color: red;    
+}
+.post2border{
+    border-radius: 5px;
+    padding-top: 0.5px;
+    margin-left: 354px;
+    margin-top: -280px;
+    border-collapse: collapse;
+    width: 237.5px;
+    height: 279px;
+    box-shadow: 1px 1px 5px 0.5px lightgrey;
+}
+.two{
+    width: 236px;
+    height: 150px;
+    margin-left: 0.9px;
+    margin-top: -280px;
+    padding-top: 280px;
+}
+
+.post3border{
+    border-radius: 5px;
+    margin-left: 605px;
+    margin-top: -280.5px;
+    width: 238px;
+    height: 280px;
+    box-shadow: 1px 1px 5px 0.5px lightgrey;
+    border-collapse: collapse;
+}
+.three{
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 1px;
+    width: 236.5px;
+    height:150px;
+}
+
+.post4border{
+    border-radius: 5px;
+    width: 237.5px;
+    height: 279.5px;
+    margin-left: 855px;
+    margin-top: -280px;
+}
+.four{
+    width: 236px;
+    height: 145px;
+    margin-left: 1px;
+    margin-top: 1px;
 }
